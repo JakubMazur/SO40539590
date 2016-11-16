@@ -1,0 +1,24 @@
+ [
+  {
+  "title": "Litzman Bar",
+  "subtitle": "נמל תל אביב 18,תל אביב",
+  "coordinates": {
+  "lat" : 32.100668,
+  "lon" : 34.775192
+  }
+  }, {
+  "title": "Shalvata",
+  "subtitle": "האנגר 28,נמל תל אביב",
+  "coordinates": {
+  "lat" : 32.101145,
+  "lon" : 34.775163
+  }
+  }, {
+  "title": "Markid",
+  "subtitle": "אבן גבירול 30,תל אביב",
+  "coordinates": {
+  "lat" : 32.074961,
+  "lon" : 34.781679
+  }
+  }
+  ]
